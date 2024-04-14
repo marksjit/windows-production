@@ -1,2 +1,5 @@
-# DC-Client-VirtualBox-Lab
-Video and readme for Windows Domain and Client setup using VirtualBox, Windows Server 2019, and Windows 10.
+•	Installed and setup VirtualBox, Windows Server 2019, Windows 10 clients, and local network.
+•	Added client machines to Windows Server 2019 domain.
+•	Configured server name, TCP/IP settings, domain settings, DHCP scopes and DNS records.
+•	Created and linked Group Policy Objects in Active Directory.
+
